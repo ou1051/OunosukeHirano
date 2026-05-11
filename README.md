@@ -41,16 +41,14 @@ My passion sits at the crossroads of **Robotics** and **Algorithmic Efficiency**
 
 ## 🔭 Interests
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                   │
-│   🤖  Robotics          Motion planning, embedded control        │
-│   ⚡  Algorithms        Complexity theory, data structures       │
-│   🔩  Systems           Low-level programming, performance       │
-│   🧠  AI / ML           Reinforcement learning for robotics      │
-│                                                                   │
-└─────────────────────────────────────────────────────────────────┘
-```
+<div align="center">
+
+![Robotics](https://img.shields.io/badge/🤖_Robotics-Motion_Planning_%7C_Embedded_Control-0ea5e9?style=for-the-badge)
+![Algorithms](https://img.shields.io/badge/⚡_Algorithms-Complexity_%7C_Data_Structures-7c3aed?style=for-the-badge)
+![Systems](https://img.shields.io/badge/🔩_Systems-Low--level_%7C_Performance-16a34a?style=for-the-badge)
+![AI / ML](https://img.shields.io/badge/🧠_AI_%2F_ML-RL_for_Robotics-dc2626?style=for-the-badge)
+
+</div>
 
 I'm particularly drawn to how robotics demands **both** theoretical rigor (algorithms, math, physics) **and** practical engineering skill (code that actually runs on real hardware). That combination keeps me hooked.
 
