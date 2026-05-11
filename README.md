@@ -20,13 +20,12 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **2nd semester Computer Science student** at [TU Munich](https://www.tum.de/en/), one of Europe's top technical universities.  
+I'm a **2nd semester Computer Science student** at [TU Munich](https://www.tum.de/en/).
 My passion sits at the crossroads of **Robotics** and **Algorithmic Efficiency** and **Computer Architecture** — I love thinking about how software can interact with the physical world, and how to make that interaction as fast and elegant as possible.
 
 - 🎓 **B.Sc. Computer Science** — TU Munich (Semester 2)
 - 🤖 Fascinated by autonomous systems, motion planning, and robot perception
 - ⚡  Efficient algorithms and low-level performance
-- 📖 Currently sharpening my skills in **Java** and **C++**
 - 🌍 Originally from Japan, studying in Munich
 
 ---
@@ -59,8 +58,6 @@ I'm particularly drawn to how robotics demands **both** theoretical rigor (algor
 
 ## 🌱 Currently Learning
 
-- **C++** — memory management, STL, writing performance-critical code
-- **Java** — OOP design patterns, data structures from scratch
 - **Algorithms** — complexity analysis, sorting, graph traversal
 
 ---
